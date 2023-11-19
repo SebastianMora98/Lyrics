@@ -1,0 +1,12 @@
+<div>
+  <div
+    class="inline-block"
+    *ngFor="let item of extractedColorPalette"
+    [ngStyle]="{
+      'background-color':
+        'rgb(' + item[0] + ',' + item[1] + ',' + item[2] + ')',
+      width: '3rem',
+      height: '3rem'
+    }"
+  ></div>
+</div>

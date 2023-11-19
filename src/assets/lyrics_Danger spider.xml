@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word" xml:lang="en">
+   <head>
+      <metadata>
+         <ttm:agent type="person" xml:id="v1" />
+         <ttm:agent type="person" xml:id="v2" />
+         <ttm:agent type="other" xml:id="v2000" />
+         <iTunesMetadata xmlns="http://music.apple.com/lyric-ttml-internal" leadingSilence="0">
+            <songwriters>
+               <songwriter>Carlton Mays Jr.</songwriter>
+               <songwriter>JID</songwriter>
+               <songwriter>Offset</songwriter>
+            </songwriters>
+         </iTunesMetadata>
+      </metadata>
+   </head>
+   <body dur="3:25.267">
+      <div begin="6.271" end="8.720" itunes:songPart="Intro" ttm:agent="v2000">
+         <p begin="6.271" end="6.634" itunes:key="L1" ttm:agent="v1">
+            <span begin="6.271" end="6.634">Danger!</span>
+         </p>
+         <p begin="6.634" end="8.720" itunes:key="L2" ttm:agent="v2000">
+            <span begin="6.634" end="7.491">Honorable</span>
+            <span begin="7.491" end="8.720">C.N.O.T.E</span>
+         </p>
+      </div>
+      <div begin="13.677" end="40.131" itunes:songPart="Chorus">
+         <p begin="13.677" end="16.751" itunes:key="L3" ttm:agent="v1">
+            <span begin="13.677" end="14.439">Danger,</span>
+            <span begin="14.439" end="15.218">danger,</span>
+            <span begin="15.218" end="15.801">danger,</span>
+            <span begin="15.801" end="16.751">danger</span>
+         </p>
+         <p begin="13.955" end="15.635" itunes:key="L4" ttm:agent="v1">
+            <span begin="13.955" end="14.451">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="14.553" end="15.635">(Danger)</span>
+            </span>
+         </p>
+         <p begin="15.635" end="17.374" itunes:key="L5" ttm:agent="v1">
+            <span begin="15.635" end="16.227">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="16.227" end="17.374">(Danger)</span>
+            </span>
+         </p>
+         <p begin="17.064" end="20.029" itunes:key="L6" ttm:agent="v1">
+            <span begin="17.064" end="17.677">Danger,</span>
+            <span begin="17.677" end="18.675">danger,</span>
+            <span begin="18.675" end="19.475">danger,</span>
+            <span begin="19.475" end="20.029">danger</span>
+         </p>
+         <p begin="17.306" end="19.006" itunes:key="L7" ttm:agent="v1">
+            <span begin="17.306" end="17.909">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="18.156" end="19.006">(Danger)</span>
+            </span>
+         </p>
+         <p begin="19.006" end="20.713" itunes:key="L8" ttm:agent="v1">
+            <span begin="19.006" end="19.555">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="19.860" end="20.713">(Danger)</span>
+            </span>
+         </p>
+         <p begin="19.513" end="19.988" itunes:key="L9" ttm:agent="v1">
+            <span begin="19.513" end="19.988">Danger!</span>
+         </p>
+         <p begin="20.448" end="23.464" itunes:key="L10" ttm:agent="v1">
+            <span begin="20.448" end="21.649">Danger,</span>
+            <span begin="21.649" end="22.003">danger,</span>
+            <span begin="22.003" end="22.536">danger,</span>
+            <span begin="22.536" end="23.464">danger</span>
+         </p>
+         <p begin="20.621" end="22.310" itunes:key="L11" ttm:agent="v1">
+            <span begin="20.621" end="21.426">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="21.426" end="22.310">(Danger)</span>
+            </span>
+         </p>
+         <p begin="22.310" end="24.049" itunes:key="L12" ttm:agent="v1">
+            <span begin="22.310" end="22.891">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="23.180" end="24.049">(Danger)</span>
+            </span>
+         </p>
+         <p begin="23.691" end="26.795" itunes:key="L13" ttm:agent="v1">
+            <span begin="23.691" end="25.075">Danger,</span>
+            <span begin="25.075" end="25.923">danger,</span>
+            <span begin="25.923" end="26.456">danger,</span>
+            <span begin="26.456" end="26.795">danger</span>
+         </p>
+         <p begin="24.054" end="25.766" itunes:key="L14" ttm:agent="v1">
+            <span begin="24.054" end="24.587">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="24.910" end="25.766">(Danger)</span>
+            </span>
+         </p>
+         <p begin="25.766" end="26.737" itunes:key="L15" ttm:agent="v1">
+            <span begin="25.766" end="26.075">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="26.252" end="26.737">(Danger!)</span>
+            </span>
+         </p>
+         <p begin="27.126" end="30.128" itunes:key="L16" ttm:agent="v1">
+            <span begin="27.126" end="27.763">Danger,</span>
+            <span begin="27.763" end="28.679">danger,</span>
+            <span begin="28.679" end="29.286">danger,</span>
+            <span begin="29.286" end="30.128">danger</span>
+         </p>
+         <p begin="27.437" end="29.099" itunes:key="L17" ttm:agent="v1">
+            <span begin="27.437" end="27.970">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="28.268" end="29.099">(Danger)</span>
+            </span>
+         </p>
+         <p begin="29.099" end="30.737" itunes:key="L18" ttm:agent="v1">
+            <span begin="29.099" end="29.515">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="29.696" end="30.737">(Danger)</span>
+            </span>
+         </p>
+         <p begin="30.499" end="33.438" itunes:key="L19" ttm:agent="v1">
+            <span begin="30.499" end="31.207">Danger,</span>
+            <span begin="31.207" end="31.907">danger,</span>
+            <span begin="31.907" end="32.824">danger,</span>
+            <span begin="32.824" end="33.438">danger</span>
+         </p>
+         <p begin="30.774" end="32.422" itunes:key="L20" ttm:agent="v1">
+            <span begin="30.774" end="31.286">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="31.598" end="32.422">(Danger)</span>
+            </span>
+         </p>
+         <p begin="32.454" end="34.139" itunes:key="L21" ttm:agent="v1">
+            <span begin="32.454" end="33.297">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="33.297" end="34.139">(Danger)</span>
+            </span>
+         </p>
+         <p begin="32.929" end="33.356" itunes:key="L22" ttm:agent="v1">
+            <span begin="32.929" end="33.356">Danger!</span>
+         </p>
+         <p begin="33.699" end="36.830" itunes:key="L23" ttm:agent="v1">
+            <span begin="33.699" end="34.419">Danger,</span>
+            <span begin="34.419" end="35.127">danger,</span>
+            <span begin="35.127" end="35.805">danger,</span>
+            <span begin="35.805" end="36.830">danger</span>
+         </p>
+         <p begin="34.061" end="35.315" itunes:key="L24" ttm:agent="v1">
+            <span begin="34.061" end="34.568">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="34.814" end="35.315">(Danger)</span>
+            </span>
+         </p>
+         <p begin="35.768" end="37.502" itunes:key="L25" ttm:agent="v1">
+            <span begin="35.768" end="36.248">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="36.635" end="37.502">(Danger)</span>
+            </span>
+         </p>
+         <p begin="37.112" end="40.131" itunes:key="L26" ttm:agent="v1">
+            <span begin="37.112" end="37.874">Danger,</span>
+            <span begin="37.874" end="38.701">danger,</span>
+            <span begin="38.701" end="39.314">danger,</span>
+            <span begin="39.314" end="40.131">danger</span>
+         </p>
+         <p begin="37.416" end="39.091" itunes:key="L27" ttm:agent="v1">
+            <span begin="37.416" end="38.205">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="38.205" end="39.091">(Danger)</span>
+            </span>
+         </p>
+         <p begin="39.091" end="40.110" itunes:key="L28" ttm:agent="v1">
+            <span begin="39.091" end="39.601">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="39.601" end="40.110">(Danger!)</span>
+            </span>
+         </p>
+      </div>
+      <div begin="41.316" end="1:20.391" itunes:songPart="Verse">
+         <p begin="41.316" end="43.014" itunes:key="L29" ttm:agent="v1">
+            <span begin="41.316" end="41.518">Life</span>
+            <span begin="41.518" end="41.768">so</span>
+            <span begin="41.768" end="42.590">dangerous</span>
+            <span ttm:role="x-bg">
+               <span begin="42.590" end="43.014">(Dangerous)</span>
+            </span>
+         </p>
+         <p begin="43.014" end="44.694" itunes:key="L30" ttm:agent="v1">
+            <span begin="43.014" end="43.234">I</span>
+            <span begin="43.234" end="43.466">was</span>
+            <span begin="43.466" end="43.793">made</span>
+            <span begin="43.793" end="43.900">for</span>
+            <span begin="43.900" end="44.414">this</span>
+            <span ttm:role="x-bg">
+               <span begin="44.414" end="44.694">(Hey!)</span>
+            </span>
+         </p>
+         <p begin="44.724" end="46.075" itunes:key="L31" ttm:agent="v1">
+            <span begin="44.724" end="44.944">I</span>
+            <span begin="44.944" end="45.212">fight</span>
+            <span begin="45.212" end="46.075">atheists</span>
+         </p>
+         <p begin="46.160" end="47.823" itunes:key="L32" ttm:agent="v1">
+            <span begin="46.160" end="46.398">I'm</span>
+            <span begin="46.398" end="46.992">sayin'</span>
+            <span ttm:role="x-bg">
+               <span begin="46.992" end="47.237">(I'm</span>
+               <span begin="47.237" end="47.823">sayin')</span>
+            </span>
+         </p>
+         <p begin="48.021" end="49.302" itunes:key="L33" ttm:agent="v1">
+            <span begin="48.021" end="48.283">Need</span>
+            <span begin="48.283" end="48.437">my</span>
+            <span begin="48.437" end="49.302">therapist</span>
+         </p>
+         <p begin="49.302" end="50.989" itunes:key="L34" ttm:agent="v1">
+            <span begin="49.302" end="49.516">I</span>
+            <span begin="49.516" end="49.927">wasn't</span>
+            <span begin="49.927" end="50.438">prepared</span>
+            <span begin="50.438" end="50.593">for</span>
+            <span begin="50.593" end="50.989">this</span>
+         </p>
+         <p begin="50.989" end="52.554" itunes:key="L35" ttm:agent="v1">
+            <span begin="50.989" end="51.227">I</span>
+            <span begin="51.227" end="51.655">protect</span>
+            <span begin="51.655" end="51.887">the</span>
+            <span begin="51.887" end="52.554">area</span>
+         </p>
+         <p begin="52.624" end="55.073" itunes:key="L36" ttm:agent="v1">
+            <span begin="52.624" end="52.927">Life</span>
+            <span begin="52.927" end="53.136">can</span>
+            <span begin="53.136" end="53.236">get</span>
+            <span begin="53.236" end="53.338">a</span>
+            <span begin="53.338" end="53.463">little</span>
+            <span begin="53.463" end="53.743">scary,</span>
+            <span begin="53.743" end="54.122">uh</span>
+            <span ttm:role="x-bg">
+               <span begin="54.351" end="55.073">(Scary)</span>
+            </span>
+         </p>
+         <p begin="55.606" end="57.288" itunes:key="L37" ttm:agent="v1">
+            <span begin="55.606" end="55.975">Like</span>
+            <span begin="55.975" end="56.147">the</span>
+            <span begin="56.147" end="56.308">Boogie</span>
+            <span begin="56.308" end="56.408">Man</span>
+            <span begin="56.408" end="56.652">comin'</span>
+            <span ttm:role="x-bg">
+               <span begin="56.652" end="56.986">(Boogie</span>
+               <span begin="56.986" end="57.288">Man)</span>
+            </span>
+         </p>
+         <p begin="57.070" end="58.387" itunes:key="L38" ttm:agent="v1">
+            <span begin="57.070" end="57.237">I</span>
+            <span begin="57.237" end="57.522">got</span>
+            <span begin="57.522" end="57.671">the</span>
+            <span begin="57.671" end="57.879">Boogie</span>
+            <span begin="57.879" end="58.093">Man</span>
+            <span begin="58.093" end="58.387">runnin'</span>
+         </p>
+         <p begin="58.487" end="59.264" itunes:key="L39" ttm:agent="v1">
+            <span begin="58.487" end="58.606">I</span>
+            <span begin="58.606" end="58.790">had</span>
+            <span begin="58.790" end="58.963">the</span>
+            <span begin="58.963" end="59.264">plot</span>
+         </p>
+         <p begin="59.264" end="1:01.052" itunes:key="L40" ttm:agent="v1">
+            <span begin="59.264" end="59.364">I</span>
+            <span begin="59.364" end="59.502">filled</span>
+            <span begin="59.502" end="59.602">up</span>
+            <span begin="59.602" end="59.811">my</span>
+            <span begin="59.811" end="1:00.176">conscious,</span>
+            <span begin="1:00.890" end="1:01.052">uh</span>
+            <span ttm:role="x-bg">
+               <span begin="1:00.121" end="1:00.358">(Hey!)</span>
+            </span>
+         </p>
+         <p begin="1:00.944" end="1:02.243" itunes:key="L41" ttm:agent="v1">
+            <span begin="1:00.944" end="1:01.212">Swing</span>
+            <span begin="1:01.212" end="1:01.402">like</span>
+            <span begin="1:01.402" end="1:01.527">a</span>
+            <span begin="1:01.527" end="1:01.983">monkey</span>
+            <span ttm:role="x-bg">
+               <span begin="1:01.983" end="1:02.243">(Swingin')</span>
+            </span>
+         </p>
+         <p begin="1:02.243" end="1:03.868" itunes:key="L42" ttm:agent="v1">
+            <span begin="1:02.243" end="1:02.630">Through</span>
+            <span begin="1:02.630" end="1:02.802">the</span>
+            <span begin="1:02.802" end="1:03.070">buildings,</span>
+            <span begin="1:03.070" end="1:03.225">I'm</span>
+            <span begin="1:03.225" end="1:03.597">comin'</span>
+            <span ttm:role="x-bg">
+               <span begin="1:03.597" end="1:03.868">(Comin')</span>
+            </span>
+         </p>
+         <p begin="1:03.868" end="1:05.201" itunes:key="L43" ttm:agent="v1">
+            <span begin="1:03.868" end="1:04.374">Save</span>
+            <span begin="1:04.374" end="1:04.474">the</span>
+            <span begin="1:04.474" end="1:04.574">day</span>
+            <span begin="1:04.574" end="1:04.677">on</span>
+            <span begin="1:04.677" end="1:05.201">Sunday</span>
+         </p>
+         <p begin="1:05.592" end="1:07.388" itunes:key="L44" ttm:agent="v1">
+            <span begin="1:05.592" end="1:05.848">Going</span>
+            <span begin="1:05.848" end="1:05.948">to</span>
+            <span begin="1:05.948" end="1:06.252">school</span>
+            <span begin="1:06.252" end="1:06.455">on</span>
+            <span begin="1:06.455" end="1:06.904">Monday</span>
+            <span ttm:role="x-bg">
+               <span begin="1:07.089" end="1:07.388">(Hey!)</span>
+            </span>
+         </p>
+         <p begin="1:07.439" end="1:08.739" itunes:key="L45" ttm:agent="v1">
+            <span begin="1:07.439" end="1:07.725">Can't</span>
+            <span begin="1:07.725" end="1:07.891">throw</span>
+            <span begin="1:07.891" end="1:07.991">in</span>
+            <span begin="1:07.991" end="1:08.147">the</span>
+            <span begin="1:08.147" end="1:08.739">flag</span>
+         </p>
+         <p begin="1:08.926" end="1:10.953" itunes:key="L46" ttm:agent="v1">
+            <span begin="1:08.926" end="1:09.140">No,</span>
+            <span begin="1:09.140" end="1:09.265">you</span>
+            <span begin="1:09.265" end="1:09.450">can't</span>
+            <span begin="1:09.450" end="1:09.574">quit</span>
+            <span begin="1:09.574" end="1:09.699">on</span>
+            <span begin="1:09.699" end="1:09.878">the</span>
+            <span begin="1:09.878" end="1:10.108">job</span>
+            <span ttm:role="x-bg">
+               <span begin="1:10.108" end="1:10.294">(Can't</span>
+               <span begin="1:10.294" end="1:10.443">quit</span>
+               <span begin="1:10.443" end="1:10.550">on</span>
+               <span begin="1:10.550" end="1:10.717">the</span>
+               <span begin="1:10.717" end="1:10.953">job)</span>
+            </span>
+         </p>
+         <p begin="1:10.657" end="1:12.280" itunes:key="L47" ttm:agent="v1">
+            <span begin="1:10.657" end="1:10.972">Maybe</span>
+            <span begin="1:10.972" end="1:11.151">the</span>
+            <span begin="1:11.151" end="1:11.407">bank</span>
+            <span begin="1:11.407" end="1:11.591">gettin'</span>
+            <span begin="1:11.591" end="1:11.769">robbed</span>
+            <span ttm:role="x-bg">
+               <span begin="1:11.769" end="1:12.180">(Maybe</span>
+               <span begin="1:12.180" end="1:12.280">the)</span>
+            </span>
+         </p>
+         <p begin="1:12.214" end="1:13.923" itunes:key="L48" ttm:agent="v1">
+            <span begin="1:12.214" end="1:12.339">Turn</span>
+            <span begin="1:12.339" end="1:12.517">it</span>
+            <span begin="1:12.517" end="1:12.696">up,</span>
+            <span begin="1:12.696" end="1:12.940">break</span>
+            <span begin="1:12.940" end="1:13.100">the</span>
+            <span begin="1:13.100" end="1:13.353">knob</span>
+            <span ttm:role="x-bg">
+               <span begin="1:13.353" end="1:13.642">(Turn</span>
+               <span begin="1:13.642" end="1:13.779">it</span>
+               <span begin="1:13.779" end="1:13.923">up)</span>
+            </span>
+         </p>
+         <p begin="1:13.923" end="1:15.611" itunes:key="L49" ttm:agent="v1">
+            <span begin="1:13.923" end="1:14.096">I</span>
+            <span begin="1:14.096" end="1:14.215">got</span>
+            <span begin="1:14.215" end="1:14.387">to</span>
+            <span begin="1:14.387" end="1:14.554">turn</span>
+            <span begin="1:14.554" end="1:14.673">to</span>
+            <span begin="1:14.673" end="1:14.839">a</span>
+            <span begin="1:14.839" end="1:15.400">beast</span>
+            <span ttm:role="x-bg">
+               <span begin="1:15.400" end="1:15.611">(Beast)</span>
+            </span>
+         </p>
+         <p begin="1:15.615" end="1:17.325" itunes:key="L50" ttm:agent="v1">
+            <span begin="1:15.615" end="1:15.799">When</span>
+            <span begin="1:15.799" end="1:15.901">I</span>
+            <span begin="1:15.901" end="1:16.091">hit</span>
+            <span begin="1:16.091" end="1:16.204">play,</span>
+            <span begin="1:16.204" end="1:16.347">I</span>
+            <span begin="1:16.347" end="1:16.555">can't</span>
+            <span begin="1:16.555" end="1:17.111">pause</span>
+            <span ttm:role="x-bg">
+               <span begin="1:17.111" end="1:17.325">(Pause)</span>
+            </span>
+         </p>
+         <p begin="1:17.325" end="1:18.934" itunes:key="L51" ttm:agent="v1">
+            <span begin="1:17.325" end="1:17.486">I</span>
+            <span begin="1:17.486" end="1:17.640">had</span>
+            <span begin="1:17.640" end="1:17.801">to</span>
+            <span begin="1:17.801" end="1:17.968">crawl</span>
+            <span begin="1:17.968" end="1:18.069">up</span>
+            <span begin="1:18.069" end="1:18.259">the</span>
+            <span begin="1:18.259" end="1:18.525">wall</span>
+            <span ttm:role="x-bg">
+               <span begin="1:18.733" end="1:18.934">(Crawl)</span>
+            </span>
+         </p>
+         <p begin="1:18.956" end="1:20.391" itunes:key="L52" ttm:agent="v1">
+            <span begin="1:18.956" end="1:19.242">I</span>
+            <span begin="1:19.242" end="1:19.378">had</span>
+            <span begin="1:19.378" end="1:19.527">to</span>
+            <span begin="1:19.527" end="1:19.676">bite</span>
+            <span begin="1:19.676" end="1:19.842">like</span>
+            <span begin="1:19.842" end="1:19.967">a</span>
+            <span begin="1:19.967" end="1:20.391">dog</span>
+         </p>
+      </div>
+      <div begin="1:20.662" end="1:47.147" itunes:songPart="Chorus">
+         <p begin="1:20.662" end="1:23.708" itunes:key="L53" ttm:agent="v1">
+            <span begin="1:20.662" end="1:21.245">Danger,</span>
+            <span begin="1:21.245" end="1:22.161">danger,</span>
+            <span begin="1:22.161" end="1:22.750">danger,</span>
+            <span begin="1:22.750" end="1:23.708">danger</span>
+         </p>
+         <p begin="1:20.920" end="1:22.620" itunes:key="L54" ttm:agent="v1">
+            <span begin="1:20.920" end="1:21.496">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:21.770" end="1:22.620">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:22.667" end="1:24.331" itunes:key="L55" ttm:agent="v1">
+            <span begin="1:22.667" end="1:23.184">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:23.499" end="1:24.331">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:24.053" end="1:27.073" itunes:key="L56" ttm:agent="v1">
+            <span begin="1:24.053" end="1:24.690">Danger,</span>
+            <span begin="1:24.690" end="1:26.064">danger,</span>
+            <span begin="1:26.064" end="1:26.665">danger,</span>
+            <span begin="1:26.665" end="1:27.073">danger</span>
+         </p>
+         <p begin="1:24.258" end="1:25.988" itunes:key="L57" ttm:agent="v1">
+            <span begin="1:24.258" end="1:24.973">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:25.123" end="1:25.988">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:25.988" end="1:27.745" itunes:key="L58" ttm:agent="v1">
+            <span begin="1:25.988" end="1:26.671">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:26.867" end="1:27.745">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:26.550" end="1:26.945" itunes:key="L59" ttm:agent="v1">
+            <span begin="1:26.550" end="1:26.945">Danger!</span>
+         </p>
+         <p begin="1:27.366" end="1:30.449" itunes:key="L60" ttm:agent="v1">
+            <span begin="1:27.366" end="1:28.128">Danger,</span>
+            <span begin="1:28.128" end="1:28.770">danger,</span>
+            <span begin="1:28.770" end="1:29.419">danger,</span>
+            <span begin="1:29.419" end="1:30.449">danger</span>
+         </p>
+         <p begin="1:27.629" end="1:29.295" itunes:key="L61" ttm:agent="v1">
+            <span begin="1:27.629" end="1:28.253">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:28.462" end="1:29.295">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:29.295" end="1:30.989" itunes:key="L62" ttm:agent="v1">
+            <span begin="1:29.295" end="1:29.866">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:30.142" end="1:30.989">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:30.712" end="1:33.782" itunes:key="L63" ttm:agent="v1">
+            <span begin="1:30.712" end="1:31.355">Danger,</span>
+            <span begin="1:31.355" end="1:32.259">danger,</span>
+            <span begin="1:32.259" end="1:33.080">danger,</span>
+            <span begin="1:33.080" end="1:33.782">danger</span>
+         </p>
+         <p begin="1:30.998" end="1:32.710" itunes:key="L64" ttm:agent="v1">
+            <span begin="1:30.998" end="1:31.617">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:31.854" end="1:32.710">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:32.725" end="1:33.691" itunes:key="L65" ttm:agent="v1">
+            <span begin="1:32.725" end="1:33.208">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:33.208" end="1:33.691">(Danger!)</span>
+            </span>
+         </p>
+         <p begin="1:34.032" end="1:37.131" itunes:key="L66" ttm:agent="v1">
+            <span begin="1:34.032" end="1:34.764">Danger,</span>
+            <span begin="1:34.764" end="1:35.549">danger,</span>
+            <span begin="1:35.549" end="1:35.906">danger,</span>
+            <span begin="1:35.906" end="1:37.131">danger</span>
+         </p>
+         <p begin="1:34.336" end="1:36.022" itunes:key="L67" ttm:agent="v1">
+            <span begin="1:34.336" end="1:35.179">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:35.179" end="1:36.022">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:36.037" end="1:37.703" itunes:key="L68" ttm:agent="v1">
+            <span begin="1:36.037" end="1:36.870">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:36.870" end="1:37.703">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:37.448" end="1:40.453" itunes:key="L69" ttm:agent="v1">
+            <span begin="1:37.448" end="1:38.085">Danger,</span>
+            <span begin="1:38.085" end="1:38.856">danger,</span>
+            <span begin="1:38.856" end="1:39.240">danger,</span>
+            <span begin="1:39.240" end="1:40.453">danger</span>
+         </p>
+         <p begin="1:37.712" end="1:39.360" itunes:key="L70" ttm:agent="v1">
+            <span begin="1:37.712" end="1:38.536">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:38.536" end="1:39.360">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:39.435" end="1:41.125" itunes:key="L71" ttm:agent="v1">
+            <span begin="1:39.435" end="1:40.280">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:40.280" end="1:41.125">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:39.883" end="1:40.357" itunes:key="L72" ttm:agent="v1">
+            <span begin="1:39.883" end="1:40.357">Danger!</span>
+         </p>
+         <p begin="1:40.704" end="1:43.802" itunes:key="L73" ttm:agent="v1">
+            <span begin="1:40.704" end="1:41.709">Danger,</span>
+            <span begin="1:41.709" end="1:42.340">danger,</span>
+            <span begin="1:42.340" end="1:42.929">danger,</span>
+            <span begin="1:42.929" end="1:43.802">danger</span>
+         </p>
+         <p begin="1:40.971" end="1:42.721" itunes:key="L74" ttm:agent="v1">
+            <span begin="1:40.971" end="1:41.707">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:41.846" end="1:42.721">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:42.736" end="1:44.383" itunes:key="L75" ttm:agent="v1">
+            <span begin="1:42.736" end="1:43.264">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:43.560" end="1:44.383">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:44.075" end="1:47.147" itunes:key="L76" ttm:agent="v1">
+            <span begin="1:44.075" end="1:45.104">Danger,</span>
+            <span begin="1:45.104" end="1:45.787">danger,</span>
+            <span begin="1:45.787" end="1:46.639">danger,</span>
+            <span begin="1:46.639" end="1:47.147">danger</span>
+         </p>
+         <p begin="1:44.395" end="1:46.060" itunes:key="L77" ttm:agent="v1">
+            <span begin="1:44.395" end="1:45.228">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:45.228" end="1:46.060">(Danger)</span>
+            </span>
+         </p>
+         <p begin="1:46.064" end="1:47.126" itunes:key="L78" ttm:agent="v1">
+            <span begin="1:46.064" end="1:46.595">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="1:46.595" end="1:47.126">(Danger!)</span>
+            </span>
+         </p>
+      </div>
+      <div begin="1:49.122" end="2:27.293" itunes:songPart="Verse" ttm:agent="v2">
+         <p begin="1:49.122" end="1:50.717" itunes:key="L79" ttm:agent="v2">
+            <span begin="1:49.122" end="1:49.378">Look</span>
+            <span begin="1:49.378" end="1:49.478">at</span>
+            <span begin="1:49.478" end="1:49.578">the</span>
+            <span begin="1:49.578" end="1:49.889">city,</span>
+            <span begin="1:49.889" end="1:50.086">it's</span>
+            <span begin="1:50.086" end="1:50.193">in</span>
+            <span begin="1:50.193" end="1:50.324">a</span>
+            <span begin="1:50.324" end="1:50.717">blaze</span>
+         </p>
+         <p begin="1:50.836" end="1:52.188" itunes:key="L80" ttm:agent="v2">
+            <span begin="1:50.836" end="1:51.092">Tell</span>
+            <span begin="1:51.092" end="1:51.217">all</span>
+            <span begin="1:51.217" end="1:51.371">the</span>
+            <span begin="1:51.371" end="1:51.645">people</span>
+            <span begin="1:51.645" end="1:51.806">to</span>
+            <span begin="1:51.806" end="1:51.954">get</span>
+            <span begin="1:51.954" end="1:52.188">away</span>
+         </p>
+         <p begin="1:52.188" end="1:54.357" itunes:key="L81" ttm:agent="v2">
+            <span begin="1:52.188" end="1:52.515">Heard</span>
+            <span begin="1:52.515" end="1:52.652">that</span>
+            <span begin="1:52.652" end="1:52.752">they</span>
+            <span begin="1:52.752" end="1:52.852">let</span>
+            <span begin="1:52.852" end="1:52.952">the</span>
+            <span begin="1:52.952" end="1:53.330">animals</span>
+            <span begin="1:53.330" end="1:53.461">out</span>
+            <span begin="1:53.461" end="1:53.610">the</span>
+            <span begin="1:53.610" end="1:54.357">cage</span>
+         </p>
+         <p begin="1:55.537" end="1:57.412" itunes:key="L82" ttm:agent="v2">
+            <span begin="1:55.537" end="1:55.710">If</span>
+            <span begin="1:55.710" end="1:55.810">you</span>
+            <span begin="1:55.810" end="1:56.025">sit</span>
+            <span begin="1:56.025" end="1:56.156">and</span>
+            <span begin="1:56.156" end="1:56.316">just</span>
+            <span begin="1:56.316" end="1:56.602">listen,</span>
+            <span begin="1:56.602" end="1:56.733">you</span>
+            <span begin="1:56.733" end="1:56.864">hear</span>
+            <span begin="1:56.864" end="1:56.964">the</span>
+            <span begin="1:56.964" end="1:57.412">snakes</span>
+         </p>
+         <p begin="1:57.504" end="1:58.938" itunes:key="L83" ttm:agent="v2">
+            <span begin="1:57.504" end="1:57.766">Send</span>
+            <span begin="1:57.766" end="1:57.879">me</span>
+            <span begin="1:57.879" end="1:58.039">the</span>
+            <span begin="1:58.039" end="1:58.331">mission,</span>
+            <span begin="1:58.331" end="1:58.480">I'm</span>
+            <span begin="1:58.480" end="1:58.605">on</span>
+            <span begin="1:58.605" end="1:58.765">the</span>
+            <span begin="1:58.765" end="1:58.938">case</span>
+         </p>
+         <p begin="1:58.938" end="2:00.639" itunes:key="L84" ttm:agent="v2">
+            <span begin="1:58.938" end="1:59.164">Tell</span>
+            <span begin="1:59.164" end="1:59.319">'em</span>
+            <span begin="1:59.319" end="1:59.485">drop</span>
+            <span begin="1:59.485" end="1:59.586">me</span>
+            <span begin="1:59.586" end="1:59.777">the</span>
+            <span begin="1:59.777" end="1:59.920">pin,</span>
+            <span begin="1:59.920" end="2:00.205">I'ma</span>
+            <span begin="2:00.205" end="2:00.639">penetrate</span>
+         </p>
+         <p begin="2:00.856" end="2:02.341" itunes:key="L85" ttm:agent="v2">
+            <span begin="2:00.856" end="2:00.969">Me</span>
+            <span begin="2:00.969" end="2:01.124">and</span>
+            <span begin="2:01.124" end="2:01.350">danger</span>
+            <span begin="2:01.350" end="2:01.600">on</span>
+            <span begin="2:01.600" end="2:01.737">a</span>
+            <span begin="2:01.737" end="2:02.022">dinner</span>
+            <span begin="2:02.022" end="2:02.341">date</span>
+         </p>
+         <p begin="2:02.958" end="2:03.971" itunes:key="L86" ttm:agent="v2">
+            <span begin="2:02.958" end="2:03.107">Oh,</span>
+            <span begin="2:03.107" end="2:03.244">let</span>
+            <span begin="2:03.244" end="2:03.374">me</span>
+            <span begin="2:03.374" end="2:03.971">demonstrate</span>
+         </p>
+         <p begin="2:04.206" end="2:06.060" itunes:key="L87" ttm:agent="v2">
+            <span begin="2:04.206" end="2:04.361">We</span>
+            <span begin="2:04.361" end="2:04.503">need</span>
+            <span begin="2:04.503" end="2:04.962">somebody</span>
+            <span begin="2:04.962" end="2:05.110">to</span>
+            <span begin="2:05.110" end="2:05.265">come</span>
+            <span begin="2:05.265" end="2:05.426">back</span>
+            <span begin="2:05.426" end="2:05.526">and</span>
+            <span begin="2:05.526" end="2:05.759">save</span>
+            <span begin="2:05.759" end="2:05.859">it</span>
+            <span begin="2:05.859" end="2:06.060">today</span>
+         </p>
+         <p begin="2:06.060" end="2:07.391" itunes:key="L88" ttm:agent="v2">
+            <span begin="2:06.060" end="2:06.417">Because</span>
+            <span begin="2:06.417" end="2:06.792">nobody</span>
+            <span begin="2:06.792" end="2:07.060">feelin'</span>
+            <span begin="2:07.060" end="2:07.391">safe</span>
+         </p>
+         <p begin="2:07.529" end="2:08.925" itunes:key="L89" ttm:agent="v2">
+            <span begin="2:07.529" end="2:07.987">Villain</span>
+            <span begin="2:07.987" end="2:08.094">put</span>
+            <span begin="2:08.094" end="2:08.255">the</span>
+            <span begin="2:08.255" end="2:08.570">mask</span>
+            <span begin="2:08.570" end="2:08.689">on</span>
+            <span begin="2:08.689" end="2:08.789">his</span>
+            <span begin="2:08.789" end="2:08.925">face</span>
+         </p>
+         <p begin="2:08.925" end="2:10.813" itunes:key="L90" ttm:agent="v2">
+            <span begin="2:08.925" end="2:09.025">So</span>
+            <span begin="2:09.025" end="2:09.205">there's</span>
+            <span begin="2:09.205" end="2:09.347">no</span>
+            <span begin="2:09.347" end="2:10.073">identifyin'</span>
+            <span begin="2:10.073" end="2:10.174">the</span>
+            <span begin="2:10.174" end="2:10.813">assailant</span>
+         </p>
+         <p begin="2:10.876" end="2:12.471" itunes:key="L91" ttm:agent="v2">
+            <span begin="2:10.876" end="2:11.209">Somethin'</span>
+            <span begin="2:11.209" end="2:11.459">major,</span>
+            <span begin="2:11.459" end="2:11.780">somethin'</span>
+            <span begin="2:11.780" end="2:11.887">more</span>
+            <span begin="2:11.887" end="2:12.471">amazin'</span>
+         </p>
+         <p begin="2:12.471" end="2:14.178" itunes:key="L92" ttm:agent="v2">
+            <span begin="2:12.471" end="2:12.649">It's</span>
+            <span begin="2:12.649" end="2:12.774">on</span>
+            <span begin="2:12.774" end="2:12.947">the</span>
+            <span begin="2:12.947" end="2:13.155">way,</span>
+            <span begin="2:13.155" end="2:13.316">ain't</span>
+            <span begin="2:13.316" end="2:13.494">no</span>
+            <span begin="2:13.494" end="2:13.649">point</span>
+            <span begin="2:13.649" end="2:13.792">in</span>
+            <span begin="2:13.792" end="2:14.178">waitin'</span>
+         </p>
+         <p begin="2:14.270" end="2:15.515" itunes:key="L93" ttm:agent="v2">
+            <span begin="2:14.270" end="2:14.496">Now</span>
+            <span begin="2:14.496" end="2:14.596">we</span>
+            <span begin="2:14.596" end="2:14.740">gon'</span>
+            <span begin="2:14.740" end="2:14.847">see</span>
+            <span begin="2:14.847" end="2:15.020">who</span>
+            <span begin="2:15.020" end="2:15.246">more</span>
+            <span begin="2:15.246" end="2:15.515">crazy</span>
+         </p>
+         <p begin="2:15.515" end="2:17.587" itunes:key="L94" ttm:agent="v2">
+            <span begin="2:15.515" end="2:15.848">Real</span>
+            <span begin="2:15.848" end="2:16.086">loud</span>
+            <span begin="2:16.086" end="2:16.503">bangin',</span>
+            <span begin="2:16.503" end="2:16.747">wakin'</span>
+            <span begin="2:16.747" end="2:16.913">up</span>
+            <span begin="2:16.913" end="2:17.175">babies,</span>
+            <span begin="2:17.175" end="2:17.587">um</span>
+         </p>
+         <p begin="2:17.587" end="2:18.849" itunes:key="L95" ttm:agent="v2">
+            <span begin="2:17.587" end="2:17.694">And</span>
+            <span begin="2:17.694" end="2:17.794">we</span>
+            <span begin="2:17.794" end="2:17.956">goin'</span>
+            <span begin="2:17.956" end="2:18.230">see</span>
+            <span begin="2:18.230" end="2:18.330">who</span>
+            <span begin="2:18.330" end="2:18.430">more</span>
+            <span begin="2:18.430" end="2:18.849">dangerous</span>
+         </p>
+         <p begin="2:18.849" end="2:20.588" itunes:key="L96" ttm:agent="v2">
+            <span begin="2:18.849" end="2:19.069">Things</span>
+            <span begin="2:19.069" end="2:19.706">untanglin',</span>
+            <span begin="2:19.706" end="2:19.806">but</span>
+            <span begin="2:19.806" end="2:19.906">I'm</span>
+            <span begin="2:19.906" end="2:20.045">back</span>
+            <span begin="2:20.045" end="2:20.588">swangin'</span>
+         </p>
+         <p begin="2:20.946" end="2:22.145" itunes:key="L97" ttm:agent="v2">
+            <span begin="2:20.946" end="2:21.154">Now</span>
+            <span begin="2:21.154" end="2:21.254">we</span>
+            <span begin="2:21.254" end="2:21.362">all</span>
+            <span begin="2:21.362" end="2:21.672">speakin'</span>
+            <span begin="2:21.672" end="2:21.874">my</span>
+            <span begin="2:21.874" end="2:22.145">language</span>
+         </p>
+         <p begin="2:22.145" end="2:22.810" itunes:key="L98" ttm:agent="v2">
+            <span begin="2:22.145" end="2:22.454">Gotta</span>
+            <span begin="2:22.454" end="2:22.657">stay</span>
+            <span begin="2:22.657" end="2:22.810">strong</span>
+         </p>
+         <p begin="2:22.810" end="2:23.896" itunes:key="L99" ttm:agent="v2">
+            <span begin="2:22.810" end="2:23.197">Press</span>
+            <span begin="2:23.197" end="2:23.405">on</span>
+            <span begin="2:23.405" end="2:23.505">through</span>
+            <span begin="2:23.505" end="2:23.625">the</span>
+            <span begin="2:23.625" end="2:23.762">pain,</span>
+            <span begin="2:23.762" end="2:23.896">and</span>
+         </p>
+         <p begin="2:23.896" end="2:24.555" itunes:key="L100" ttm:agent="v2">
+            <span begin="2:23.896" end="2:24.164">Make</span>
+            <span begin="2:24.164" end="2:24.265">it</span>
+            <span begin="2:24.265" end="2:24.455">back</span>
+            <span begin="2:24.455" end="2:24.555">home</span>
+         </p>
+         <p begin="2:24.532" end="2:25.657" itunes:key="L101" ttm:agent="v2">
+            <span begin="2:24.532" end="2:24.818">Back</span>
+            <span begin="2:24.818" end="2:24.960">bone</span>
+            <span begin="2:24.960" end="2:25.103">never</span>
+            <span begin="2:25.103" end="2:25.657">changin'</span>
+         </p>
+         <p begin="2:25.712" end="2:27.293" itunes:key="L102" ttm:agent="v2">
+            <span begin="2:25.712" end="2:25.867">Say</span>
+            <span begin="2:25.867" end="2:26.004">the</span>
+            <span begin="2:26.004" end="2:26.218">name</span>
+            <span begin="2:26.218" end="2:26.325">if</span>
+            <span begin="2:26.325" end="2:26.425">you</span>
+            <span begin="2:26.425" end="2:26.569">know</span>
+            <span begin="2:26.569" end="2:26.682">where</span>
+            <span begin="2:26.682" end="2:26.813">I'm</span>
+            <span begin="2:26.813" end="2:27.293">hangin'</span>
+         </p>
+      </div>
+      <div begin="2:27.625" end="2:54.088" itunes:songPart="Chorus">
+         <p begin="2:27.625" end="2:30.599" itunes:key="L103" ttm:agent="v1">
+            <span begin="2:27.625" end="2:28.256">Danger,</span>
+            <span begin="2:28.256" end="2:28.761">danger,</span>
+            <span begin="2:28.761" end="2:29.624">danger,</span>
+            <span begin="2:29.624" end="2:30.599">danger</span>
+         </p>
+         <p begin="2:27.892" end="2:29.592" itunes:key="L104" ttm:agent="v1">
+            <span begin="2:27.892" end="2:28.420">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:28.742" end="2:29.592">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:29.603" end="2:31.188" itunes:key="L105" ttm:agent="v1">
+            <span begin="2:29.603" end="2:30.056">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:30.396" end="2:31.188">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:30.954" end="2:34.114" itunes:key="L106" ttm:agent="v1">
+            <span begin="2:30.954" end="2:31.704">Danger,</span>
+            <span begin="2:31.704" end="2:32.804">danger,</span>
+            <span begin="2:32.804" end="2:33.477">danger,</span>
+            <span begin="2:33.477" end="2:34.114">danger</span>
+         </p>
+         <p begin="2:31.235" end="2:32.684" itunes:key="L107" ttm:agent="v1">
+            <span begin="2:31.235" end="2:31.790">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:31.960" end="2:32.684">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:32.907" end="2:34.680" itunes:key="L108" ttm:agent="v1">
+            <span begin="2:32.907" end="2:33.467">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:33.794" end="2:34.680">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:33.372" end="2:33.927" itunes:key="L109" ttm:agent="v1">
+            <span begin="2:33.372" end="2:33.927">Danger!</span>
+         </p>
+         <p begin="2:34.373" end="2:37.405" itunes:key="L110" ttm:agent="v1">
+            <span begin="2:34.373" end="2:34.938">Danger,</span>
+            <span begin="2:34.938" end="2:35.837">danger,</span>
+            <span begin="2:35.837" end="2:36.426">danger,</span>
+            <span begin="2:36.426" end="2:37.405">danger</span>
+         </p>
+         <p begin="2:34.577" end="2:36.189" itunes:key="L111" ttm:agent="v1">
+            <span begin="2:34.577" end="2:35.148">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:35.383" end="2:36.189">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:36.189" end="2:37.947" itunes:key="L112" ttm:agent="v1">
+            <span begin="2:36.189" end="2:36.802">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:37.068" end="2:37.947">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:37.712" end="2:40.744" itunes:key="L113" ttm:agent="v1">
+            <span begin="2:37.712" end="2:38.360">Danger,</span>
+            <span begin="2:38.360" end="2:39.328">danger,</span>
+            <span begin="2:39.328" end="2:39.893">danger,</span>
+            <span begin="2:39.893" end="2:40.744">danger</span>
+         </p>
+         <p begin="2:37.959" end="2:39.577" itunes:key="L114" ttm:agent="v1">
+            <span begin="2:37.959" end="2:38.599">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:38.768" end="2:39.577">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:39.617" end="2:40.612" itunes:key="L115" ttm:agent="v1">
+            <span begin="2:39.617" end="2:40.118">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:40.115" end="2:40.612">(Danger!)</span>
+            </span>
+         </p>
+         <p begin="2:41.075" end="2:44.093" itunes:key="L116" ttm:agent="v1">
+            <span begin="2:41.075" end="2:41.658">Danger,</span>
+            <span begin="2:41.658" end="2:42.497">danger,</span>
+            <span begin="2:42.497" end="2:42.955">danger,</span>
+            <span begin="2:42.955" end="2:44.093">danger</span>
+         </p>
+         <p begin="2:41.297" end="2:43.004" itunes:key="L117" ttm:agent="v1">
+            <span begin="2:41.297" end="2:41.878">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:42.151" end="2:43.004">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:43.009" end="2:44.589" itunes:key="L118" ttm:agent="v1">
+            <span begin="2:43.009" end="2:43.548">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:43.799" end="2:44.589">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:44.364" end="2:47.432" itunes:key="L119" ttm:agent="v1">
+            <span begin="2:44.364" end="2:45.030">Danger,</span>
+            <span begin="2:45.030" end="2:45.929">danger,</span>
+            <span begin="2:45.929" end="2:46.604">danger,</span>
+            <span begin="2:46.604" end="2:47.432">danger</span>
+         </p>
+         <p begin="2:44.651" end="2:46.365" itunes:key="L120" ttm:agent="v1">
+            <span begin="2:44.651" end="2:45.339">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:45.508" end="2:46.365">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:46.365" end="2:48.053" itunes:key="L121" ttm:agent="v1">
+            <span begin="2:46.365" end="2:46.872">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:47.209" end="2:48.053">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:46.869" end="2:47.333" itunes:key="L122" ttm:agent="v1">
+            <span begin="2:46.869" end="2:47.333">Danger!</span>
+         </p>
+         <p begin="2:47.745" end="2:50.776" itunes:key="L123" ttm:agent="v1">
+            <span begin="2:47.745" end="2:48.435">Danger,</span>
+            <span begin="2:48.435" end="2:49.149">danger,</span>
+            <span begin="2:49.149" end="2:49.738">danger,</span>
+            <span begin="2:49.738" end="2:50.776">danger</span>
+         </p>
+         <p begin="2:47.989" end="2:49.638" itunes:key="L124" ttm:agent="v1">
+            <span begin="2:47.989" end="2:48.624">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:48.814" end="2:49.638">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:49.695" end="2:51.341" itunes:key="L125" ttm:agent="v1">
+            <span begin="2:49.695" end="2:50.518">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:50.518" end="2:51.341">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:51.099" end="2:54.088" itunes:key="L126" ttm:agent="v1">
+            <span begin="2:51.099" end="2:52.012">Danger,</span>
+            <span begin="2:52.012" end="2:52.540">danger,</span>
+            <span begin="2:52.540" end="2:53.217">danger,</span>
+            <span begin="2:53.217" end="2:54.088">danger</span>
+         </p>
+         <p begin="2:51.355" end="2:53.029" itunes:key="L127" ttm:agent="v1">
+            <span begin="2:51.355" end="2:52.192">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:52.192" end="2:53.029">(Danger)</span>
+            </span>
+         </p>
+         <p begin="2:53.029" end="2:54.065" itunes:key="L128" ttm:agent="v1">
+            <span begin="2:53.029" end="2:53.547">Spider</span>
+            <span ttm:role="x-bg">
+               <span begin="2:53.547" end="2:54.065">(Danger!)</span>
+            </span>
+         </p>
+      </div>
+      <div begin="2:59.855" end="3:14.996" itunes:songPart="Outro">
+         <p begin="2:59.855" end="3:00.826" itunes:key="L129" ttm:agent="v1">
+            <span begin="2:59.855" end="3:00.826">Dangerous</span>
+         </p>
+         <p begin="3:06.509" end="3:07.515" itunes:key="L130" ttm:agent="v1">
+            <span begin="3:06.509" end="3:07.515">Dangerous</span>
+         </p>
+         <p begin="3:13.273" end="3:14.996" itunes:key="L131" ttm:agent="v1">
+            <span begin="3:13.273" end="3:14.135">Dangerous</span>
+            <span ttm:role="x-bg">
+               <span begin="3:14.135" end="3:14.996">(Danger)</span>
+            </span>
+         </p>
+      </div>
+   </body>
+</tt>

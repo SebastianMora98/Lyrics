@@ -1,27 +1,5 @@
-<!-- <img src="assets/images/900x900cc.webp" width="100px" height="100px" /> -->
-<img src="assets/images/maroon.jpg" width="100px" height="100px" />
-
-<div>
-  <div
-    class="inline-block"
-    *ngFor="let item of mopl"
-    [ngStyle]="{
-      'background-color':
-        'rgb(' + item[0] + ',' + item[1] + ',' + item[2] + ')',
-      width: '3rem',
-      height: '3rem'
-    }"
-  ></div>
-</div>
-<button (click)="toggleblur()">
-  {{ blur ? "Remove Blur" : "Add Blur" }}
-</button>
-
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  *ngIf="blur"
-  style="width: 0px; height: 0px"
->
+<app-lyrics></app-lyrics>
+<svg xmlns="http://www.w3.org/2000/svg" style="width: 0px; height: 0px">
   <defs>
     <filter id="goo">
       <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
